@@ -38,7 +38,6 @@
   &__link{
     font: 700 #{$f16}/1 $font-family-base;
     letter-spacing: -0.02em;
-    border: 1px solid var(--ifm-navbar-item-border-color);
     border-radius: 10px;
     @include media-breakpoint-up(lg) {
       font-size: $f18;
@@ -52,7 +51,6 @@
       color: var(--ifm-navbar-link-active-color);
       border-color: var(--ifm-navbar-item-active-border-color);
       background-color: var(--ifm-navbar-item-active-bg);
-
     }
   }
   &__brand{

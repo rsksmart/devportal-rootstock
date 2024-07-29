@@ -68,13 +68,13 @@ html:root {
   --ifm-navbar-item-border-color: var(--bs-black);
   --ifm-navbar-item-bg: var(--bs-body-bg);
 
-  --ifm-navbar-link-hover-color: var(--bs-black);
-  --ifm-navbar-item-hover-bg: var(--rsk-color-main);
-  --ifm-navbar-item-hover-border-color: var(--rsk-color-main);
+  --ifm-navbar-link-hover-color: var(--bs-body-bg);
+  --ifm-navbar-item-hover-bg: var(--bs-body-color);
+  --ifm-navbar-item-hover-border-color: var(--bs-body-bg);
 
-  --ifm-navbar-link-active-color: var(--bs-black);
-  --ifm-navbar-item-active-bg: var(--rsk-color-main);
-  --ifm-navbar-item-active-border-color: var(--rsk-color-main);
+  --ifm-navbar-link-active-color: var(--bs-body-bg);
+  --ifm-navbar-item-active-bg: var(--bs-body-color);
+  --ifm-navbar-item-active-border-color: var(--bs-body-bg);
 
   //--ifm-navbar-padding-vertical: calc(var(--ifm-spacing-vertical) * 0.5);
   --ifm-navbar-shadow: none;
