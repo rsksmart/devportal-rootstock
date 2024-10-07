@@ -1,12 +1,14 @@
 ---
 sidebar_label: The Graph
 sidebar_position: 2
-title: Get Started with The Graph
+title: Get Started with The Graph 
 description: "Easily query on-chain data through a decentralized network of indexers"
 tags: [TheGraph, indexers, data, subgraphs, dApps, smart contracts, developers, developer tools, get-started, how-to]
 ---
 
 Getting historical data on smart contracts can be challenging when building dApps. [The Graph](https://thegraph.com/) provides an easy way to query smart contracts data through APIs known as [subgraphs](https://thegraph.com/docs/en/developing/developer-faqs/#1-what-is-a-subgraph). Its infrastructure relies on a decentralized network of indexers, enabling dApps to achieve true decentralization.
+
+Available on: ![Static Badge](https://img.shields.io/badge/testnet-mainnet-orange)
 
 These subgraphs only take a few minutes to set up and get running.
 
